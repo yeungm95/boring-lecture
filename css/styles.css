@@ -1,11 +1,14 @@
 h2.intro {
-
+text-align: center;
 }
 
 p.intro {
-
+text-align: center;
+font-style: italic;
+font-family: fantasy;
+color: brown
 }
 
 img.intro {
-    
+  border-style: groove;
 }
